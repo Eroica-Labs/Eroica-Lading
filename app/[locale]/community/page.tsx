@@ -21,12 +21,6 @@ import { Button } from "@/components/ui/Button";
 import { staggerContainer, staggerCard, viewportOnce } from "@/lib/animations";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
-import { locales } from "@/i18n/config";
-
-// Generate static params for all locales
-export function generateStaticParams() {
-  return locales.map((locale) => ({ locale }));
-}
 
 // Platform icons
 const platformIcons: Record<string, React.ReactNode> = {

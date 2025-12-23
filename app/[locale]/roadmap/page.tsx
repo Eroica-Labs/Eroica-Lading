@@ -20,13 +20,6 @@ import { Badge } from "@/components/ui/Badge";
 import { staggerContainer, staggerItem, viewportOnce } from "@/lib/animations";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
-import { locales } from "@/i18n/config";
-
-// Generate static params for all locales
-export function generateStaticParams() {
-  return locales.map((locale) => ({ locale }));
-}
-
 // Status icons
 const statusIcons = {
   completed: <CheckCircle2 className="w-5 h-5 text-green-500" />,
