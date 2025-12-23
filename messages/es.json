@@ -1,0 +1,1213 @@
+{
+  "metadata": {
+    "title": "Eroica - La Sinfonía Democrática",
+    "description": "Donde cada voz se convierte en parte de algo más grande. Eroica empodera comunidades con gobernanza transparente, participación democrática y acción colectiva. Únete a la sinfonía."
+  },
+  "nav": {
+    "features": "Plataforma",
+    "pricing": "Planes",
+    "howItWorks": "Cómo Funciona",
+    "guides": "Guías",
+    "about": "Nosotros",
+    "download": "Descargar",
+    "getStarted": "Comenzar"
+  },
+  "hero": {
+    "badge": "Participación Cívica Reimaginada",
+    "title": "La Sinfonía Democrática",
+    "subtitle": "Como una sinfonía, la democracia es la colaboración armoniosa de muchas voces distintas. Eroica da a tu comunidad los instrumentos para crear algo extraordinario juntos.",
+    "cta": {
+      "primary": "Inicia Tu Movimiento",
+      "secondary": "Ver en Acción"
+    },
+    "stats": {
+      "communities": "Comunidades Activas",
+      "votes": "Decisiones Democráticas",
+      "projects": "Sueños Financiados"
+    }
+  },
+  "trustedBy": {
+    "title": "Confianza de comunidades visionarias en todo el mundo"
+  },
+  "features": {
+    "badge": "La Plataforma Eroica",
+    "title": "Cada instrumento. Una sinfonía.",
+    "subtitle": "Desde la primera propuesta hasta el voto final, Eroica provee la infraestructura cívica completa que tu comunidad merece.",
+    "items": {
+      "voting": {
+        "title": "Votación Democrática",
+        "description": "Encuestas transparentes con umbrales de quórum garantizan legitimidad. Cada miembro participa. Cada voz moldea el resultado."
+      },
+      "communities": {
+        "title": "Arquitectura Comunitaria",
+        "description": "Construye foros públicos o círculos privados íntimos. Define roles, permisos y estructuras de gobernanza que reflejen tus valores."
+      },
+      "economy": {
+        "title": "Economía Participativa",
+        "description": "Los Eroica Coins recompensan el compromiso cívico. Contribuye ideas, vota propuestas, financia lo importante — la participación se vuelve moneda."
+      },
+      "projects": {
+        "title": "Acción Colectiva",
+        "description": "Transforma ideas en realidad. Propón iniciativas, construye coaliciones y moviliza a tu comunidad hacia metas compartidas."
+      },
+      "transparency": {
+        "title": "Transparencia Radical",
+        "description": "Cada transacción. Cada decisión. Cada moneda. Visibilidad completa construye confianza inquebrantable en tu gobernanza."
+      },
+      "notifications": {
+        "title": "El Pulso de la Comunidad",
+        "description": "Actualizaciones en tiempo real mantienen a los miembros conectados al latido de tu comunidad. Nunca pierdas un voto, propuesta o logro."
+      }
+    }
+  },
+  "howItWorks": {
+    "badge": "Tu Camino Adelante",
+    "title": "Del silencio a la sinfonía en tres movimientos",
+    "subtitle": "El viaje de voces aisladas a acción coordinada comienza con un solo paso.",
+    "steps": {
+      "one": {
+        "number": "01",
+        "title": "Reúne Tus Voces",
+        "description": "Crea tu comunidad o únete a una alineada con tu visión. Los foros abiertos dan bienvenida a todos; los círculos privados unen colaboradores de confianza."
+      },
+      "two": {
+        "number": "02",
+        "title": "Compongan Juntos",
+        "description": "Propón ideas. Delibera con otros miembros. Emite tu voto con convicción. Cada participación te gana Eroica Coins."
+      },
+      "three": {
+        "number": "03",
+        "title": "Observa el Crescendo",
+        "description": "Sigue el progreso con transparencia total. Ve los recursos fluir hacia proyectos en los que tu comunidad cree. Presencia la transformación colectiva."
+      }
+    }
+  },
+  "pricing": {
+    "badge": "Inversión en Democracia",
+    "title": "Elige la escala de tu comunidad",
+    "subtitle": "Comienza gratis. Crece sin límites. Cada plan incluye las herramientas esenciales para gobernanza democrática.",
+    "billing": {
+      "monthly": "Mensual",
+      "annual": "Anual",
+      "save": "2 meses gratis"
+    },
+    "popular": "Elección Popular",
+    "current": "Tu Plan",
+    "cta": {
+      "free": "Comenzar Gratis",
+      "paid": "Prueba 7 Días"
+    },
+    "plans": {
+      "free": {
+        "name": "Ciudadano",
+        "description": "Para voces emergentes",
+        "features": [
+          "1 comunidad",
+          "3 proyectos activos",
+          "Votación y propuestas básicas",
+          "Discusión comunitaria",
+          "100 Eroica Coins de bienvenida"
+        ]
+      },
+      "starter": {
+        "name": "Organizador",
+        "description": "Para movimientos en crecimiento",
+        "features": [
+          "3 comunidades",
+          "15 proyectos cada una",
+          "Analíticas avanzadas",
+          "Soporte prioritario",
+          "Marca personalizada"
+        ]
+      },
+      "pro": {
+        "name": "Líder",
+        "description": "Para instituciones establecidas",
+        "features": [
+          "10 comunidades",
+          "50 proyectos cada una",
+          "Gobernanza privada",
+          "Exportación completa de datos",
+          "Integración API",
+          "Soporte dedicado"
+        ]
+      },
+      "enterprise": {
+        "name": "Institución",
+        "description": "Para impacto transformador",
+        "features": [
+          "Escala ilimitada",
+          "Implementación marca blanca",
+          "Integraciones personalizadas",
+          "Garantía SLA",
+          "Equipo de cuenta dedicado",
+          "Consultoría estratégica"
+        ]
+      }
+    }
+  },
+  "audiences": {
+    "badge": "Para Agentes de Cambio",
+    "leaders": {
+      "title": "Para Arquitectos Comunitarios",
+      "description": "Ves en lo que tu comunidad podría convertirse. Eroica te da las herramientas para construirlo — gobernanza transparente, miembros comprometidos, y la infraestructura para participación democrática genuina.",
+      "cta": "Construye Tu Visión"
+    },
+    "organizations": {
+      "title": "Para Instituciones Cívicas",
+      "description": "La rendición de cuentas no es una carga — es tu fundamento. Implementa gobernanza en la que tus interesados pueden confiar, seguir y participar a cualquier escala.",
+      "cta": "Agenda Consultoría"
+    }
+  },
+  "testimonials": {
+    "badge": "Voces del Movimiento",
+    "title": "Comunidades encontrando su armonía",
+    "items": {
+      "one": {
+        "quote": "Por primera vez, cada vecino tiene una voz igual. Eroica no solo cambió cómo votamos — cambió cómo nos vemos unos a otros.",
+        "author": "Elena Vásquez",
+        "role": "Presidenta Comunitaria",
+        "org": "Asociación de Vecinos Riverside"
+      },
+      "two": {
+        "quote": "Nuestros donantes ahora ven exactamente a dónde va cada peso. La transparencia ha transformado el escepticismo en generosidad sin precedentes.",
+        "author": "Marcus Chen",
+        "role": "Director Ejecutivo",
+        "org": "Coalición de Renovación Urbana"
+      },
+      "three": {
+        "quote": "Doce proyectos elegidos por la comunidad financiados en el primer año. El modelo Eroica demuestra que la sabiduría colectiva crea impacto colectivo.",
+        "author": "Sarah Okonkwo",
+        "role": "Fundadora",
+        "org": "Colectivo Artesanos Unidos"
+      }
+    }
+  },
+  "faq": {
+    "badge": "Conoce Eroica",
+    "title": "Preguntas antes de unirte",
+    "subtitle": "Todo lo que necesitas para tomar una decisión informada.",
+    "items": {
+      "what": {
+        "question": "¿Qué es exactamente Eroica?",
+        "answer": "Eroica es una plataforma de participación cívica diseñada para comunidades que creen en la toma de decisiones colectiva. Combina votación democrática, financiamiento de proyectos y gobernanza transparente en un sistema unificado. Ya seas una asociación vecinal, organización sin fines de lucro, cooperativa, o cualquier grupo que toma decisiones juntos — Eroica provee la infraestructura para democracia genuina."
+      },
+      "coins": {
+        "question": "¿Cómo funciona la economía de Eroica Coins?",
+        "answer": "Los Eroica Coins son una moneda interna que hace tangible la participación. Vota en una propuesta: gana 5 EC. Presenta tu propia propuesta: gana 25 EC. Invita un nuevo miembro: gana 15 EC. Cada usuario nuevo comienza con 100 EC. Puedes donar tus monedas para financiar proyectos en los que crees — creando una línea directa entre compromiso cívico e impacto comunitario."
+      },
+      "privacy": {
+        "question": "¿Cómo se protegen los datos de nuestra comunidad?",
+        "answer": "Tienes control completo. Las comunidades públicas son descubribles y abiertas a todos. Las comunidades privadas existen solo para miembros invitados — invisibles a la búsqueda, accesibles solo por invitación. Todos los datos están encriptados en tránsito y en reposo. Nunca vendemos tu información. La gobernanza de tu comunidad es solo tuya."
+      },
+      "migrate": {
+        "question": "¿Podemos migrar desde una plataforma existente?",
+        "answer": "Absolutamente. Nuestro equipo de migración ha ayudado a docenas de comunidades a transicionar desde sistemas heredados. Podemos transferir listas de miembros, decisiones históricas, archivos de proyectos y registros financieros. Contáctanos para una consulta de migración personalizada — nosotros manejamos la complejidad técnica para que puedas enfocarte en tu comunidad."
+      },
+      "platforms": {
+        "question": "¿Dónde podemos acceder a Eroica?",
+        "answer": "Eroica está disponible como aplicación móvil nativa para iOS y Android. Una plataforma web completa para acceso de escritorio está en desarrollo activo. Todos los datos se sincronizan perfectamente entre dispositivos — participa donde estés, como prefieras."
+      },
+      "cancel": {
+        "question": "¿Qué pasa si necesitamos cancelar?",
+        "answer": "Cancela cuando quieras sin penalizaciones. Tu acceso continúa hasta el final de tu período de facturación, luego transicionas al nivel gratuito con todas las funciones básicas intactas. Los datos de tu comunidad siguen siendo tuyos — expórtalos cuando desees. Creemos en ganarnos tu confianza continua, no en encerrarte."
+      }
+    }
+  },
+  "cta": {
+    "title": "Tu comunidad está esperando",
+    "subtitle": "Miles de comunidades ya han descubierto cómo suena la acción colectiva. ¿Será la tuya la próxima?",
+    "email": {
+      "placeholder": "Tu correo electrónico",
+      "button": "Únete al Movimiento"
+    },
+    "legal": "Al unirte, aceptas nuestros Términos de Servicio y Política de Privacidad.",
+    "download": {
+      "title": "Obtén la app",
+      "appStore": "Descargar para iOS",
+      "playStore": "Descargar para Android"
+    }
+  },
+  "footer": {
+    "tagline": "La Sinfonía Democrática.",
+    "entity": "Un producto de Eroica Labs GmbH",
+    "labs": {
+      "title": "Eroica Labs",
+      "description": "El motor de ingeniería",
+      "about": "Sobre Nosotros",
+      "careers": "Únete al Equipo",
+      "contact": "Contacto"
+    },
+    "platform": {
+      "title": "Eroica Platform",
+      "description": "Herramientas de participación cívica",
+      "features": "Funciones",
+      "pricing": "Planes",
+      "download": "Descargar",
+      "support": "Soporte",
+      "guides": "Guías"
+    },
+    "foundation": {
+      "title": "Eroica Foundation",
+      "description": "Educación en democracia digital",
+      "mission": "Nuestra Misión",
+      "education": "Educación",
+      "research": "Investigación"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacidad",
+      "terms": "Términos",
+      "cookies": "Cookies"
+    },
+    "copyright": "© {year} Eroica Labs GmbH. Todos los derechos reservados."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: {date}",
+    "introduction": "Eroica Labs GmbH (\"Eroica\", \"nosotros\" o \"nuestra\") está comprometida a proteger tu privacidad de acuerdo con la ley suiza de protección de datos (nDSG - Ley Federal de Protección de Datos) y los estándares internacionales aplicables, incluyendo el RGPD. Esta Política de Privacidad explica cómo recopilamos, utilizamos, divulgamos y protegemos tu información cuando utilizas nuestra aplicación móvil y servicios.",
+    "sections": {
+      "dataController": {
+        "title": "Responsable del Tratamiento",
+        "content": "El responsable del tratamiento de tus datos personales es Eroica Labs GmbH, una empresa suiza con sede en Suiza. Estamos sujetos a las leyes y regulaciones suizas de protección de datos."
+      },
+      "dataCollected": {
+        "title": "Datos Personales que Recopilamos",
+        "content": "Recopilamos información que nos proporcionas directamente e información recopilada automáticamente a través del uso de nuestros servicios.",
+        "items": [
+          "Información de cuenta: nombre, correo electrónico, contraseña, foto de perfil",
+          "Datos de comunidad: membresías, roles, historial de votaciones, propuestas",
+          "Datos de transacciones: saldo de Eroica Coins, donaciones, contribuciones a proyectos",
+          "Información del dispositivo: tipo de dispositivo, sistema operativo, identificadores únicos",
+          "Datos de uso: interacciones con la app, funciones utilizadas, marcas de tiempo",
+          "Comunicaciones: solicitudes de soporte, comentarios, respuestas a encuestas"
+        ]
+      },
+      "purpose": {
+        "title": "Cómo Utilizamos Tus Datos",
+        "content": "Procesamos tus datos personales para los siguientes propósitos:",
+        "items": [
+          "Proporcionar y mantener nuestra plataforma de participación cívica",
+          "Procesar votos, propuestas y actividades de gobernanza comunitaria",
+          "Gestionar la economía de Eroica Coins y financiamiento de proyectos",
+          "Enviar notificaciones sobre actividades y actualizaciones de la comunidad",
+          "Mejorar nuestros servicios mediante análisis e investigación",
+          "Garantizar la seguridad de la plataforma y prevenir fraudes",
+          "Cumplir con obligaciones legales bajo la ley suiza"
+        ]
+      },
+      "legalBasis": {
+        "title": "Base Legal para el Tratamiento",
+        "content": "Bajo la ley suiza de protección de datos (nDSG), procesamos tus datos basándonos en: (a) tu consentimiento cuando se proporciona explícitamente; (b) la necesidad para el cumplimiento de nuestro contrato contigo; (c) nuestros intereses legítimos en operar y mejorar nuestra plataforma; (d) cumplimiento de obligaciones legales. Puedes retirar el consentimiento en cualquier momento sin afectar la legalidad del procesamiento anterior."
+      },
+      "sharing": {
+        "title": "Compartición de Datos",
+        "content": "Compartimos tus datos solo en las siguientes circunstancias:",
+        "items": [
+          "Con tu comunidad: votos, propuestas e información de perfil que eliges hacer visible",
+          "Proveedores de servicios: hosting, análisis y servicios de soporte bajo confidencialidad",
+          "Requisitos legales: cuando lo exija la ley suiza o un proceso legal válido",
+          "Transferencias empresariales: en conexión con fusión, adquisición o venta de activos con aviso previo"
+        ]
+      },
+      "international": {
+        "title": "Transferencias Internacionales de Datos",
+        "content": "Tus datos se almacenan principalmente en servidores ubicados en Suiza. Cuando las transferencias a países fuera de Suiza son necesarias, garantizamos una protección adecuada mediante Cláusulas Contractuales Tipo aprobadas por Suiza o salvaguardas equivalentes según lo requiere la ley suiza de protección de datos."
+      },
+      "rights": {
+        "title": "Tus Derechos",
+        "content": "Bajo la ley suiza de protección de datos (nDSG), tienes los siguientes derechos:",
+        "items": [
+          "Derecho a la información: obtener detalles sobre qué datos procesamos",
+          "Derecho de acceso: solicitar una copia de tus datos personales",
+          "Derecho de rectificación: corregir datos inexactos o incompletos",
+          "Derecho de supresión: solicitar la eliminación de tus datos (sujeto a requisitos de retención legal)",
+          "Derecho a la portabilidad de datos: recibir tus datos en un formato estructurado",
+          "Derecho de oposición: oponerte al procesamiento basado en intereses legítimos",
+          "Derecho a presentar una queja ante el Comisionado Federal de Protección de Datos e Información (FDPIC)"
+        ]
+      },
+      "retention": {
+        "title": "Retención de Datos",
+        "content": "Conservamos tus datos personales solo durante el tiempo necesario para cumplir los propósitos para los que fueron recopilados, típicamente durante la duración de tu cuenta más 5 años para cumplimiento legal y fiscal bajo la ley suiza. Los registros de votación y datos de gobernanza comunitaria pueden conservarse más tiempo para transparencia y rendición de cuentas."
+      },
+      "security": {
+        "title": "Seguridad de Datos",
+        "content": "Implementamos medidas técnicas y organizativas apropiadas para proteger tus datos, incluyendo cifrado en tránsito y en reposo, controles de acceso, auditorías de seguridad regulares y capacitación de empleados. A pesar de nuestros esfuerzos, ningún sistema es completamente seguro, y no podemos garantizar seguridad absoluta."
+      },
+      "changes": {
+        "title": "Cambios a Esta Política",
+        "content": "Podemos actualizar esta Política de Privacidad periódicamente. Los cambios materiales se comunicarán a través de la app o por correo electrónico al menos 30 días antes de entrar en vigor. El uso continuado después de los cambios constituye aceptación de la política actualizada."
+      },
+      "contact": {
+        "title": "Contáctanos",
+        "content": "Para preguntas sobre esta Política de Privacidad o para ejercer tus derechos, contacta a nuestro Delegado de Protección de Datos en privacy@eroica.io o escribe a: Eroica Labs GmbH, Delegado de Protección de Datos, Suiza."
+      }
+    },
+    "swissLaw": {
+      "title": "Cumplimiento de la Ley Suiza",
+      "content": "Esta Política de Privacidad se rige por la ley suiza, específicamente la Ley Federal de Protección de Datos (nDSG) y sus ordenanzas de implementación. Para usuarios en el Espacio Económico Europeo, también cumplimos con los requisitos del RGPD. La autoridad supervisora competente es el Comisionado Federal de Protección de Datos e Información (FDPIC) en Suiza."
+    }
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: {date}",
+    "introduction": "Bienvenido a Eroica. Estos Términos de Servicio (\"Términos\") rigen tu acceso y uso de la aplicación móvil Eroica y servicios relacionados (\"Servicios\") proporcionados por Eroica Labs GmbH, una empresa suiza. Al utilizar nuestros Servicios, aceptas estar sujeto a estos Términos. Por favor, léelos cuidadosamente.",
+    "sections": {
+      "acceptance": {
+        "title": "Aceptación de los Términos",
+        "content": "Al crear una cuenta o usar nuestros Servicios, confirmas que tienes al menos 18 años y capacidad legal para celebrar estos Términos. Si usas los Servicios en nombre de una organización, declaras que tienes autoridad para vincular a esa organización a estos Términos."
+      },
+      "services": {
+        "title": "Descripción de los Servicios",
+        "content": "Eroica proporciona una plataforma de participación cívica que permite a las comunidades organizarse, votar propuestas, financiar proyectos y participar en gobernanza democrática. Nuestros Servicios incluyen herramientas de gestión comunitaria, sistemas de votación, la economía de Eroica Coins y funciones relacionadas descritas en nuestra aplicación."
+      },
+      "accounts": {
+        "title": "Cuentas de Usuario",
+        "content": "Eres responsable de mantener la confidencialidad de tus credenciales de cuenta y de todas las actividades bajo tu cuenta. Debes proporcionar información precisa y completa al crear tu cuenta y mantenerla actualizada. Notifícanos inmediatamente de cualquier acceso no autorizado. Podemos suspender o terminar cuentas que violen estos Términos."
+      },
+      "coins": {
+        "title": "Eroica Coins",
+        "content": "Los Eroica Coins (\"EC\") son una moneda virtual interna sin valor monetario fuera de la plataforma. Los EC no pueden intercambiarse por moneda fiduciaria, criptomonedas u otros instrumentos monetarios. Los EC se ganan mediante la participación en la plataforma y pueden usarse para financiar proyectos comunitarios. Nos reservamos el derecho de modificar el sistema de EC con aviso razonable."
+      },
+      "conduct": {
+        "title": "Conducta del Usuario",
+        "content": "Aceptas utilizar nuestros Servicios de manera legal y respetuosa. No deberás:",
+        "items": [
+          "Violar leyes o regulaciones aplicables",
+          "Acosar, amenazar o discriminar a otros usuarios",
+          "Publicar contenido falso, engañoso o difamatorio",
+          "Intentar manipular resultados de votaciones o procesos de gobernanza",
+          "Acceder a los Servicios mediante medios automatizados sin permiso",
+          "Interferir con la operación o seguridad de la plataforma",
+          "Hacerse pasar por cualquier persona o entidad"
+        ]
+      },
+      "content": {
+        "title": "Contenido del Usuario",
+        "content": "Conservas la propiedad del contenido que envías a la plataforma. Al publicar contenido, otorgas a Eroica una licencia no exclusiva y mundial para usar, mostrar y distribuir dicho contenido dentro de los Servicios. Eres el único responsable de tu contenido y declaras que tienes todos los derechos necesarios para publicarlo."
+      },
+      "intellectual": {
+        "title": "Propiedad Intelectual",
+        "content": "La plataforma Eroica, incluyendo su diseño, funciones, código y marca, es propiedad de Eroica AG y está protegida por las leyes de propiedad intelectual suizas e internacionales. No puedes copiar, modificar, distribuir o realizar ingeniería inversa de ninguna parte de nuestros Servicios sin permiso escrito explícito."
+      },
+      "liability": {
+        "title": "Limitación de Responsabilidad",
+        "content": "En la máxima medida permitida por la ley suiza, Eroica AG no será responsable de daños indirectos, incidentales, especiales, consecuentes o punitivos derivados de tu uso de los Servicios. Nuestra responsabilidad total no excederá la cantidad que nos pagaste en los 12 meses anteriores a la reclamación. Estas limitaciones no aplican a daños causados por negligencia grave o conducta dolosa."
+      },
+      "termination": {
+        "title": "Terminación",
+        "content": "Puedes terminar tu cuenta en cualquier momento a través de la configuración de la app. Podemos suspender o terminar tu acceso por violación de estos Términos con aviso, excepto en casos de violaciones graves donde se requiera acción inmediata. Tras la terminación, puedes exportar tus datos según lo provee nuestra plataforma. Las disposiciones que por su naturaleza deben sobrevivir permanecerán en efecto."
+      },
+      "disputes": {
+        "title": "Resolución de Disputas",
+        "content": "Cualquier disputa derivada de estos Términos o tu uso de los Servicios se regirá por la ley suiza, excluyendo sus disposiciones de conflicto de leyes. Aceptas intentar primero resolver las disputas a través de nuestros canales de soporte. Si no se resuelven, las disputas se someterán a la jurisdicción exclusiva de los tribunales de Suiza."
+      },
+      "changes": {
+        "title": "Modificaciones a los Términos",
+        "content": "Podemos modificar estos Términos en cualquier momento. Los cambios materiales se notificarán a través de la app o por correo electrónico con al menos 30 días de anticipación. El uso continuado después de que los cambios entren en vigor constituye aceptación. Si no estás de acuerdo con los cambios, puedes terminar tu cuenta antes de que se hagan efectivos."
+      },
+      "contact": {
+        "title": "Información de Contacto",
+        "content": "Para preguntas sobre estos Términos, contáctanos en legal@eroica.app o escribe a: Eroica AG, Departamento Legal, Suiza."
+      }
+    },
+    "swissLaw": {
+      "title": "Ley Aplicable",
+      "content": "Estos Términos de Servicio se rigen e interpretan de acuerdo con las leyes de Suiza, sin tener en cuenta los principios de conflicto de leyes. Se excluye expresamente la Convención de las Naciones Unidas sobre los Contratos de Compraventa Internacional de Mercaderías (CISG). Cualquier acción legal se presentará ante los tribunales competentes en Suiza."
+    }
+  },
+  "cookies": {
+    "title": "Política de Cookies",
+    "lastUpdated": "Última actualización: {date}",
+    "introduction": "Esta Política de Cookies explica cómo Eroica AG utiliza cookies y tecnologías de seguimiento similares en nuestra aplicación móvil y sitio web. Estamos comprometidos con la transparencia sobre nuestras prácticas de datos de acuerdo con la ley suiza de protección de datos (nDSG) y los estándares internacionales aplicables.",
+    "sections": {
+      "what": {
+        "title": "¿Qué Son las Cookies?",
+        "content": "Las cookies son pequeños archivos de texto almacenados en tu dispositivo cuando visitas un sitio web o usas una aplicación. Sirven para varios propósitos, desde recordar tus preferencias hasta analizar cómo usas nuestros servicios. Tecnologías similares incluyen almacenamiento local, almacenamiento de sesión e identificadores de dispositivo en aplicaciones móviles."
+      },
+      "types": {
+        "title": "Tipos de Cookies que Utilizamos",
+        "content": "Categorizamos nuestras cookies en tres tipos principales según su propósito y necesidad para el funcionamiento de nuestra plataforma."
+      },
+      "essential": {
+        "title": "Cookies Esenciales",
+        "content": "Estas cookies son estrictamente necesarias para el funcionamiento de nuestra plataforma. Habilitan funcionalidades básicas como seguridad, autenticación y gestión de sesiones. Sin estas cookies, los Servicios no pueden funcionar correctamente. No se requiere consentimiento para cookies esenciales bajo la ley suiza.",
+        "items": [
+          "Tokens de autenticación para mantener tu sesión iniciada",
+          "Tokens de seguridad para prevenir fraudes y proteger tu cuenta",
+          "Identificadores de sesión para mantener tu sesión actual",
+          "Preferencias de idioma y configuración regional"
+        ]
+      },
+      "analytics": {
+        "title": "Cookies de Análisis",
+        "content": "Utilizamos cookies de análisis para entender cómo los usuarios interactúan con nuestra plataforma, lo que nos ayuda a mejorar nuestros Servicios. Estas cookies recopilan datos agregados y anónimos sobre patrones de uso. Puedes optar por no usar cookies de análisis a través de la configuración de tu dispositivo o navegador.",
+        "items": [
+          "Vistas de página y uso de funciones",
+          "Duración de sesión y patrones de navegación",
+          "Tipo de dispositivo y sistema operativo",
+          "Informes de errores y métricas de rendimiento"
+        ]
+      },
+      "preferences": {
+        "title": "Cookies de Preferencias",
+        "content": "Estas cookies recuerdan tus elecciones y configuraciones para proporcionar una experiencia personalizada. Nos ayudan a recordar tus preferencias de visualización, configuraciones de notificaciones y otras personalizaciones."
+      },
+      "duration": {
+        "title": "Duración de las Cookies",
+        "content": "Las cookies de sesión son temporales y se eliminan cuando cierras la app o el navegador. Las cookies persistentes permanecen en tu dispositivo por un período establecido (típicamente hasta 12 meses) o hasta que las elimines. Minimizamos la duración de las cookies de manera consistente con sus propósitos."
+      },
+      "control": {
+        "title": "Gestión de Cookies",
+        "content": "Tienes control sobre las cookies a través de varios métodos:",
+        "items": [
+          "Configuración del dispositivo: gestionar permisos de la app y borrar datos",
+          "Configuración del navegador: bloquear o eliminar cookies (para acceso web)",
+          "Configuración en la app: alternar cookies de análisis y opcionales",
+          "Enlaces de exclusión: herramientas específicas para proveedores de análisis"
+        ]
+      },
+      "thirdParty": {
+        "title": "Servicios de Terceros",
+        "content": "Algunas cookies son colocadas por servicios de terceros que utilizamos para análisis, informes de errores y monitoreo de rendimiento. Estos proveedores operan bajo sus propias políticas de privacidad. Solo trabajamos con proveedores que cumplen con los estándares suizos de protección de datos."
+      },
+      "changes": {
+        "title": "Cambios a Esta Política",
+        "content": "Podemos actualizar esta Política de Cookies para reflejar cambios en nuestras prácticas o requisitos legales. Los cambios significativos se comunicarán a través de la app. La fecha en la parte superior indica la última revisión."
+      },
+      "contact": {
+        "title": "Contáctanos",
+        "content": "Para preguntas sobre nuestro uso de cookies, contacta a nuestro Delegado de Protección de Datos en privacy@eroica.app o escribe a: Eroica AG, Suiza."
+      }
+    },
+    "table": {
+      "title": "Detalles de Cookies",
+      "headers": {
+        "name": "Nombre",
+        "purpose": "Propósito",
+        "duration": "Duración",
+        "type": "Tipo"
+      },
+      "cookies": [
+        {
+          "name": "eroica_session",
+          "purpose": "Mantiene tu sesión iniciada",
+          "duration": "Sesión",
+          "type": "Esencial"
+        },
+        {
+          "name": "eroica_auth",
+          "purpose": "Token de autenticación",
+          "duration": "30 días",
+          "type": "Esencial"
+        },
+        {
+          "name": "eroica_locale",
+          "purpose": "Almacena preferencia de idioma",
+          "duration": "1 año",
+          "type": "Esencial"
+        },
+        {
+          "name": "eroica_analytics",
+          "purpose": "Análisis de uso anónimo",
+          "duration": "1 año",
+          "type": "Análisis"
+        },
+        {
+          "name": "eroica_preferences",
+          "purpose": "Preferencias de UI y notificaciones",
+          "duration": "1 año",
+          "type": "Preferencias"
+        }
+      ]
+    },
+    "swissLaw": {
+      "title": "Marco Legal",
+      "content": "Esta Política de Cookies cumple con la ley suiza de protección de datos (nDSG) y la Ley de Telecomunicaciones de Suiza (FMG) respecto a comunicaciones electrónicas. Para usuarios en la UE/EEE, también cumplimos con la Directiva ePrivacy. Las cookies esenciales no requieren consentimiento; para otras cookies, proporcionamos mecanismos claros de exclusión."
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Construyendo la Infraestructura para la Democracia",
+      "subtitle": "Eroica nació de una creencia simple: que la tecnología debe amplificar cada voz, no silenciarlas. Estamos creando las herramientas que hacen la toma de decisiones colectiva transparente, accesible y genuinamente democrática."
+    },
+    "ecosystem": {
+      "badge": "El Ecosistema Eroica",
+      "title": "Tres Pilares, Una Misión",
+      "subtitle": "Nuestro ecosistema combina innovación, educación y tecnología para transformar la participación cívica a nivel mundial.",
+      "items": {
+        "labs": {
+          "title": "Eroica Labs",
+          "entity": "Eroica Labs GmbH",
+          "description": "Nuestro laboratorio de innovación. El motor de ingeniería que diseña, desarrolla y mantiene la plataforma Eroica. Con sede en Suiza, combinamos la precisión suiza con ambición global.",
+          "domain": "eroica.io"
+        },
+        "foundation": {
+          "title": "Eroica Foundation",
+          "description": "Nuestro brazo educativo. Dedicado a avanzar la alfabetización en democracia digital a nivel mundial a través de investigación, publicaciones, talleres y programas comunitarios.",
+          "focus": "Educación en Democracia Digital",
+          "comingSoon": "Sitio web de la Fundación próximamente"
+        },
+        "platform": {
+          "title": "Eroica Platform",
+          "description": "Nuestro producto insignia. Las aplicaciones móviles y web que empoderan a las comunidades con votación transparente, gobernanza participativa y financiación colectiva.",
+          "focus": "Tecnología de Participación Cívica"
+        }
+      }
+    },
+    "mission": {
+      "badge": "Nuestra Misión",
+      "title": "Empoderando Comunidades para Gobernarse",
+      "content": "En un mundo donde la participación cívica está declinando y la confianza en las instituciones se erosiona, vimos una oportunidad para reconstruir desde cero. Eroica proporciona la infraestructura para que las comunidades tomen decisiones juntas — de manera transparente, democrática y efectiva.",
+      "vision": "Nuestra visión es un mundo donde cada comunidad, desde asociaciones vecinales hasta movimientos globales, tenga acceso a las herramientas que necesita para una verdadera autogobernanza. Donde la participación sea recompensada, la transparencia esté garantizada y cada voz tenga peso.",
+      "location": {
+        "title": "Sede Central",
+        "value": "Suiza"
+      },
+      "founded": {
+        "title": "Fundada",
+        "value": "2023"
+      },
+      "global": {
+        "title": "Alcance Comunitario",
+        "value": "Global"
+      }
+    },
+    "foundation": {
+      "badge": "Eroica Foundation",
+      "title": "Impulsando la Democracia Digital",
+      "subtitle": "Una iniciativa sin fines de lucro dedicada a la educación, investigación y defensa de la participación democrática en la era digital.",
+      "mission": {
+        "title": "Nuestra Misión",
+        "description": "La Eroica Foundation existe para asegurar que todos, sin importar su origen o recursos, tengan acceso al conocimiento y las herramientas necesarias para una participación democrática significativa. Creemos que ciudadanos informados son el fundamento de democracias saludables."
+      },
+      "pillars": {
+        "education": {
+          "title": "Educación",
+          "description": "Cursos gratuitos, talleres y recursos sobre democracia digital, compromiso cívico y gobernanza comunitaria para individuos y organizaciones en todo el mundo."
+        },
+        "research": {
+          "title": "Investigación",
+          "description": "Estudios académicos y publicaciones que exploran la intersección de tecnología y democracia, informando políticas y mejores prácticas."
+        },
+        "advocacy": {
+          "title": "Defensoría",
+          "description": "Promoviendo políticas y estándares que protejan los procesos democráticos en espacios digitales y aseguren acceso equitativo a tecnología cívica."
+        },
+        "community": {
+          "title": "Apoyo Comunitario",
+          "description": "Becas, mentoría y recursos para organizaciones de base y comunidades que construyen infraestructura democrática."
+        }
+      },
+      "comingSoon": "Sitio web de Eroica Foundation próximamente — Mantente atento"
+    },
+    "values": {
+      "badge": "Nuestros Valores",
+      "title": "Lo Que Defendemos",
+      "subtitle": "Cada decisión que tomamos está guiada por estos principios fundamentales.",
+      "items": {
+        "democracy": {
+          "title": "Participación Democrática",
+          "description": "Cada voz importa igualmente. Construimos herramientas que aseguran representación justa y participación significativa en decisiones colectivas."
+        },
+        "transparency": {
+          "title": "Transparencia Radical",
+          "description": "La confianza se construye sobre la apertura. Cada transacción, cada voto, cada decisión en Eroica es visible y auditable."
+        },
+        "community": {
+          "title": "Comunidad Primero",
+          "description": "Existimos para servir a las comunidades, no al revés. Tus datos son tuyos. Tu gobernanza es tuya."
+        },
+        "innovation": {
+          "title": "Innovación Reflexiva",
+          "description": "Adoptamos tecnología que empodera, no tecnología por sí misma. Cada función sirve al objetivo de mejor gobernanza."
+        }
+      }
+    },
+    "timeline": {
+      "badge": "Nuestro Viaje",
+      "title": "Construyendo la Sinfonía Democrática",
+      "items": {
+        "2023": {
+          "title": "El Comienzo",
+          "description": "Eroica fue fundada en Suiza con la misión de reinventar la participación cívica para la era digital."
+        },
+        "2024Q1": {
+          "title": "Primeras Comunidades",
+          "description": "Lanzamos nuestro programa beta, dando la bienvenida a las primeras comunidades para construir su infraestructura democrática en Eroica."
+        },
+        "2024Q3": {
+          "title": "Expansión Global",
+          "description": "Expandimos para apoyar comunidades en múltiples continentes, con soporte multilingüe y adaptaciones culturales."
+        },
+        "2024Q4": {
+          "title": "Lanzamiento Público",
+          "description": "Lanzamiento público oficial de Eroica en iOS y Android, llevando herramientas democráticas a comunidades en todo el mundo."
+        }
+      }
+    },
+    "swiss": {
+      "title": "Calidad Suiza, Misión Global",
+      "content": "Eroica Labs GmbH tiene su sede en Suiza, beneficiándose de uno de los marcos de privacidad y protección de datos más fuertes del mundo. La ley suiza y los valores de neutralidad, democracia y precisión están integrados en todo lo que construimos. Los datos de tu comunidad están protegidos por algunas de las regulaciones de privacidad más robustas que existen.",
+      "location": "Hecho en Suiza por Eroica Labs"
+    }
+  },
+  "roadmap": {
+    "badge": "Hoja de Ruta",
+    "title": "El Camino Adelante",
+    "subtitle": "Descubre hacia dónde se dirige Eroica. Nuestra hoja de ruta refleja nuestro compromiso con la mejora continua y el desarrollo impulsado por la comunidad.",
+    "cta": "¿Tienes una sugerencia? ¡Cuéntanos!",
+    "status": {
+      "completed": "Completado",
+      "inProgress": "En Progreso",
+      "planned": "Planificado"
+    },
+    "phases": {
+      "q4_2024": {
+        "title": "Q4 2024 - Fundamentos",
+        "description": "Lanzamiento de la plataforma central con herramientas democráticas esenciales.",
+        "status": "completed",
+        "features": [
+          "Apps móviles para iOS y Android",
+          "Creación y gestión de comunidades",
+          "Votación y propuestas básicas",
+          "Economía de Eroica Coins",
+          "Autenticación y perfiles de usuario"
+        ]
+      },
+      "q1_2025": {
+        "title": "Q1 2025 - Expansión",
+        "description": "Mejorando las capacidades de colaboración y gobernanza.",
+        "status": "inProgress",
+        "features": [
+          "Mecanismos de votación avanzados",
+          "Flujos de financiamiento de proyectos",
+          "Panel de análisis comunitario",
+          "Soporte multilingüe",
+          "Sistema de notificaciones push"
+        ]
+      },
+      "q2_2025": {
+        "title": "Q2 2025 - Integración",
+        "description": "Conectando Eroica con las herramientas que ya usas.",
+        "status": "planned",
+        "features": [
+          "Lanzamiento de plataforma web",
+          "API para desarrolladores",
+          "Integraciones de calendario",
+          "Colaboración en documentos",
+          "Conexiones con apps de terceros"
+        ]
+      },
+      "q3_2025": {
+        "title": "Q3 2025 - Inteligencia",
+        "description": "Funciones inteligentes para mejorar la toma de decisiones.",
+        "status": "planned",
+        "features": [
+          "Resúmenes de propuestas con IA",
+          "Análisis de sentimiento para discusiones",
+          "Insights de gobernanza automatizados",
+          "Herramientas predictivas de engagement"
+        ]
+      },
+      "future": {
+        "title": "El Horizonte",
+        "description": "Nuestra visión a largo plazo para la innovación democrática.",
+        "status": "planned",
+        "features": [
+          "Opciones de verificación blockchain",
+          "Colaboración entre comunidades",
+          "Soluciones de marca blanca",
+          "Estándares globales de gobernanza"
+        ]
+      }
+    }
+  },
+  "blog": {
+    "badge": "Perspectivas",
+    "title": "El Diario Eroica",
+    "subtitle": "Reflexiones sobre democracia, construcción de comunidades y el futuro de la participación cívica.",
+    "readMore": "Leer artículo",
+    "comingSoon": {
+      "title": "Próximamente",
+      "description": "Estamos preparando contenido reflexivo sobre gobernanza comunitaria, innovación democrática y las historias de comunidades que usan Eroica.",
+      "cta": "Suscríbete para Actualizaciones"
+    },
+    "posts": [
+      {
+        "title": "Por Qué la Democracia Necesita Infraestructura Digital",
+        "excerpt": "En una era de participación cívica en declive, la tecnología ofrece nuevos caminos hacia un compromiso democrático significativo. Así es como estamos construyendo para el futuro.",
+        "author": "Equipo Eroica",
+        "date": "Diciembre 2024",
+        "category": "Visión",
+        "image": ""
+      },
+      {
+        "title": "La Economía de la Participación",
+        "excerpt": "Cómo los Eroica Coins crean incentivos tangibles para el compromiso cívico mientras mantienen la integridad de los procesos democráticos.",
+        "author": "Equipo Eroica",
+        "date": "Diciembre 2024",
+        "category": "Producto",
+        "image": ""
+      },
+      {
+        "title": "Construyendo Confianza a Través de la Transparencia",
+        "excerpt": "La transparencia radical no es solo una función—es una filosofía. Aprende cómo la visibilidad completa transforma la gobernanza comunitaria.",
+        "author": "Equipo Eroica",
+        "date": "Noviembre 2024",
+        "category": "Filosofía",
+        "image": ""
+      }
+    ]
+  },
+  "join": {
+    "badge": "Únete a Eroica Labs",
+    "title": "Sé Parte de la Sinfonía",
+    "subtitle": "Estamos construyendo el futuro de la participación cívica. Si te apasiona la democracia y la tecnología, nos encantaría saber de ti.",
+    "intro": "En Eroica Labs, creemos que la tecnología puede fortalecer la democracia y empoderar comunidades en todo el mundo. Somos un equipo pequeño y enfocado con sede en Suiza y una misión global.",
+    "values": {
+      "title": "Lo Que Buscamos",
+      "items": [
+        "Pasión por la participación democrática y la tecnología cívica",
+        "Personas automotivadas que prosperan en entornos remotos",
+        "Mentalidad colaborativa y excelentes habilidades de comunicación",
+        "Compromiso con la calidad y atención al detalle"
+      ]
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "description": "No tenemos posiciones abiertas listadas ahora mismo, pero siempre nos interesa conectar con personas talentosas que comparten nuestra misión.",
+      "cta": "Envíanos tu historia",
+      "email": "careers@eroica.io"
+    }
+  },
+  "support": {
+    "badge": "Soporte",
+    "title": "¿Cómo Podemos Ayudarte?",
+    "subtitle": "Estamos aquí para apoyar el camino de tu comunidad hacia una mejor gobernanza.",
+    "contact": {
+      "title": "Contactar Soporte",
+      "description": "Nuestro equipo está listo para asistirte con cualquier pregunta sobre la plataforma Eroica.",
+      "email": {
+        "title": "Escríbenos",
+        "description": "Envíanos un mensaje y responderemos en 24 horas.",
+        "value": "support@eroica.io"
+      },
+      "hours": {
+        "title": "Horario de Soporte",
+        "description": "Lunes a Viernes",
+        "value": "9:00 - 18:00 CET"
+      }
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "question": "¿Cómo creo mi primera comunidad?",
+          "answer": "Descarga la app Eroica, crea una cuenta y toca 'Crear Comunidad'. Sigue la configuración guiada para configurar el nombre, privacidad y reglas de gobernanza de tu comunidad."
+        },
+        {
+          "question": "¿Cómo funcionan los Eroica Coins?",
+          "answer": "Los Eroica Coins se ganan a través de la participación—votando, proponiendo ideas e interactuando con tu comunidad. Puedes usarlos para financiar proyectos o donar a iniciativas en las que crees."
+        },
+        {
+          "question": "¿Mis datos están seguros?",
+          "answer": "Sí. Somos una empresa suiza sujeta a estrictas leyes de protección de datos. Todos los datos están encriptados en tránsito y en reposo, y nunca vendemos tu información."
+        },
+        {
+          "question": "¿Puedo exportar los datos de mi comunidad?",
+          "answer": "Sí. Puedes exportar los datos de tu comunidad en cualquier momento desde la configuración de administrador. Tus datos te pertenecen."
+        }
+      ]
+    }
+  },
+  "careers": {
+    "badge": "Únete a Nuestro Equipo",
+    "title": "Construye el Futuro de la Democracia",
+    "subtitle": "Buscamos personas apasionadas que creen que la tecnología puede empoderar comunidades en todo el mundo.",
+    "benefits": {
+      "title": "¿Por Qué Unirte a Eroica?",
+      "items": {
+        "remote": {
+          "title": "Cultura Remote-First",
+          "description": "Trabaja desde cualquier lugar del mundo. Creemos que el gran trabajo sucede cuando estás cómodo."
+        },
+        "equity": {
+          "title": "Equity Significativo",
+          "description": "Comparte nuestro éxito. Cada miembro del equipo recibe equity en la empresa."
+        },
+        "team": {
+          "title": "Equipo Excepcional",
+          "description": "Colabora con personas talentosas y orientadas a la misión de diversos orígenes."
+        },
+        "impact": {
+          "title": "Impacto Real",
+          "description": "Tu trabajo empodera directamente a comunidades y fortalece la participación democrática globalmente."
+        },
+        "growth": {
+          "title": "Oportunidades de Crecimiento",
+          "description": "Aprende continuamente con presupuestos generosos de educación y programas de mentoría."
+        },
+        "culture": {
+          "title": "Cultura Saludable",
+          "description": "Priorizamos el bienestar con horarios flexibles, PTO ilimitado y retiros de equipo."
+        }
+      }
+    },
+    "openings": {
+      "title": "Posiciones Abiertas",
+      "subtitle": "Encuentra tu rol en la revolución democrática.",
+      "apply": "Aplicar Ahora",
+      "noPositions": {
+        "title": "Sin Posiciones Abiertas",
+        "description": "No tenemos posiciones abiertas ahora mismo, pero siempre buscamos talento excepcional. Envíanos tu currículum y cuéntanos por qué serías ideal.",
+        "cta": "Enviar Tu Currículum"
+      }
+    },
+    "positions": [
+      {
+        "title": "Ingeniero iOS Senior",
+        "department": "Ingeniería",
+        "location": "Remoto (Europa)",
+        "type": "Tiempo Completo",
+        "description": "Construye experiencias móviles elegantes y de alto rendimiento que empoderan comunidades."
+      },
+      {
+        "title": "Diseñador de Producto",
+        "department": "Diseño",
+        "location": "Remoto (Global)",
+        "type": "Tiempo Completo",
+        "description": "Da forma al futuro de las herramientas democráticas con diseño reflexivo centrado en el usuario."
+      },
+      {
+        "title": "Gerente de Éxito del Cliente",
+        "department": "Operaciones",
+        "location": "Remoto (Américas)",
+        "type": "Tiempo Completo",
+        "description": "Ayuda a las comunidades a prosperar asegurando que aprovechen al máximo Eroica."
+      }
+    ],
+    "culture": {
+      "title": "Nuestra Cultura",
+      "description": "Somos un equipo pequeño y enfocado unido por una misión compartida: hacer la democracia accesible para cada comunidad. Valoramos la autonomía, la transparencia y el desacuerdo reflexivo. Enviamos rápido pero nunca comprometemos la calidad.",
+      "tagline": "Orientados a la misión. Remote-first. Centrados en lo humano."
+    }
+  },
+  "press": {
+    "badge": "Prensa y Medios",
+    "title": "Eroica en las Noticias",
+    "subtitle": "Recursos para periodistas, bloggers y profesionales de medios que cubren tecnología cívica.",
+    "mediaKit": {
+      "title": "Kit de Medios",
+      "download": "Descargar",
+      "items": {
+        "logos": {
+          "title": "Paquete de Logos",
+          "description": "Logos oficiales de Eroica en varios formatos (SVG, PNG, EPS) con guías de uso."
+        },
+        "photos": {
+          "title": "Fotos de Prensa",
+          "description": "Imágenes de alta resolución de nuestro equipo, capturas de producto e imágenes de marca."
+        },
+        "factSheet": {
+          "title": "Hoja de Datos",
+          "description": "Resumen de la empresa, estadísticas clave y biografías de ejecutivos para referencia rápida."
+        }
+      }
+    },
+    "releases": {
+      "title": "Comunicados de Prensa",
+      "comingSoon": "Comunicados de prensa próximamente. Mantente atento a nuestros últimos anuncios."
+    },
+    "quote": {
+      "text": "La democracia no es solo un sistema—es una práctica. Eroica da a las comunidades las herramientas para practicarla cada día.",
+      "author": "Liderazgo Eroica",
+      "role": "Equipo Fundador"
+    },
+    "contact": {
+      "title": "Consultas de Prensa",
+      "description": "Para consultas de medios, solicitudes de entrevistas o preguntas relacionadas con prensa, contacta a nuestro equipo de comunicaciones.",
+      "cta": "Contactar Equipo de Prensa"
+    }
+  },
+  "help": {
+    "badge": "Centro de Ayuda",
+    "title": "¿Cómo podemos ayudarte?",
+    "subtitle": "Encuentra respuestas, obtén soporte y aprende a aprovechar al máximo Eroica.",
+    "search": {
+      "placeholder": "Buscar artículos de ayuda..."
+    },
+    "categories": {
+      "gettingStarted": {
+        "title": "Comenzando",
+        "description": "¿Nuevo en Eroica? Empieza aquí para aprender lo básico.",
+        "count": "8 artículos"
+      },
+      "communities": {
+        "title": "Comunidades",
+        "description": "Crea, gestiona y haz crecer tu comunidad.",
+        "count": "12 artículos"
+      },
+      "voting": {
+        "title": "Votación y Propuestas",
+        "description": "Aprende sobre las herramientas de toma de decisiones democráticas.",
+        "count": "10 artículos"
+      },
+      "coins": {
+        "title": "Eroica Coins",
+        "description": "Entiende la economía participativa.",
+        "count": "6 artículos"
+      },
+      "account": {
+        "title": "Configuración de Cuenta",
+        "description": "Gestiona tu perfil y preferencias.",
+        "count": "7 artículos"
+      },
+      "security": {
+        "title": "Privacidad y Seguridad",
+        "description": "Mantén tu cuenta y datos seguros.",
+        "count": "5 artículos"
+      }
+    },
+    "popular": {
+      "title": "Artículos Populares"
+    },
+    "contact": {
+      "email": {
+        "title": "Soporte por Email",
+        "description": "Obtén ayuda de nuestro equipo. Normalmente respondemos en 24 horas.",
+        "cta": "Enviar Email"
+      },
+      "chat": {
+        "title": "Chat en Vivo",
+        "description": "Chatea con nosotros en tiempo real. Disponible de lunes a viernes, 9am-6pm CET.",
+        "cta": "Iniciar Chat"
+      }
+    }
+  },
+  "community": {
+    "badge": "Comunidad",
+    "title": "Únete al Movimiento",
+    "subtitle": "Conecta con otros constructores de comunidades, comparte ideas y da forma al futuro de Eroica juntos.",
+    "stats": {
+      "members": {
+        "value": "5,000+",
+        "label": "Miembros de la Comunidad"
+      },
+      "communities": {
+        "value": "250+",
+        "label": "Comunidades Activas"
+      },
+      "contributions": {
+        "value": "1,200+",
+        "label": "Contribuciones"
+      }
+    },
+    "platforms": {
+      "title": "Conéctate con Nosotros",
+      "discord": {
+        "title": "Discord",
+        "description": "Únete a discusiones en tiempo real con la comunidad Eroica.",
+        "cta": "Unirse al Servidor"
+      },
+      "github": {
+        "title": "GitHub",
+        "description": "Contribuye a nuestros proyectos de código abierto y reporta problemas.",
+        "cta": "Ver Repositorio"
+      },
+      "twitter": {
+        "title": "Twitter",
+        "description": "Síguenos para actualizaciones, noticias y destacados de la comunidad.",
+        "cta": "Seguir"
+      },
+      "forum": {
+        "title": "Foro",
+        "description": "Participa en discusiones profundas y solicitudes de funciones.",
+        "cta": "Unirse al Foro"
+      }
+    },
+    "events": {
+      "title": "Próximos Eventos",
+      "subtitle": "Webinars, AMAs y encuentros comunitarios.",
+      "noEvents": {
+        "title": "Sin Eventos Próximos",
+        "description": "Vuelve pronto para anuncios sobre eventos comunitarios y webinars."
+      }
+    },
+    "contribute": {
+      "title": "Conviértete en Contribuidor",
+      "description": "Eroica está construida por la comunidad, para la comunidad. Ya seas desarrollador, diseñador, escritor u organizador comunitario, hay muchas formas de contribuir.",
+      "github": "Contribuir en GitHub",
+      "discord": "Unirse a Discord"
+    }
+  },
+  "guides": {
+    "badge": "Guía de Usuario",
+    "title": "Guía de Eroica Platform",
+    "subtitle": "Aprende a usar todas las funciones de Eroica Platform para participar en comunidades democráticas.",
+    "quickStart": {
+      "title": "Inicio Rápido",
+      "subtitle": "Comienza con Eroica en 4 simples pasos",
+      "steps": {
+        "download": {
+          "title": "Descarga la App",
+          "description": "Obtén Eroica Platform desde App Store (iOS) o Google Play Store (Android). La app es gratuita para descargar y usar."
+        },
+        "register": {
+          "title": "Crea Tu Cuenta",
+          "description": "Regístrate con tu correo electrónico o usa inicio de sesión con Google/Apple. Recibirás 100 Eroica Coins como bono de bienvenida."
+        },
+        "login": {
+          "title": "Inicia Sesión",
+          "description": "Ingresa tus credenciales para acceder a la plataforma. Tu sesión permanece activa para una experiencia fluida."
+        },
+        "explore": {
+          "title": "Explora el Dashboard",
+          "description": "Navega comunidades públicas, descubre votaciones activas y explora proyectos financiados por la comunidad."
+        }
+      }
+    },
+    "mainFeatures": {
+      "title": "Funciones Principales",
+      "subtitle": "Explora las funcionalidades centrales de Eroica Platform",
+      "items": {
+        "home": {
+          "title": "Dashboard Principal",
+          "description": "Tu centro de control mostrando actualizaciones de comunidad, votaciones recientes y recomendaciones personalizadas."
+        },
+        "communities": {
+          "title": "Comunidades",
+          "description": "Únete o crea comunidades. Cada comunidad tiene su propia gobernanza, proyectos y sistema de votación."
+        },
+        "voting": {
+          "title": "Votación Democrática",
+          "description": "Participa en encuestas transparentes con umbrales de quórum. Cada voto cuenta y moldea las decisiones comunitarias."
+        },
+        "projects": {
+          "title": "Proyectos y Propuestas",
+          "description": "Ve proyectos en curso, presenta nuevas propuestas y sigue el progreso de financiamiento en tiempo real."
+        },
+        "wallet": {
+          "title": "Wallet Eroica",
+          "description": "Gestiona tus Eroica Coins. Ve tu saldo, historial de transacciones y financia proyectos en los que crees."
+        },
+        "notifications": {
+          "title": "Notificaciones",
+          "description": "Mantente actualizado con alertas en tiempo real para votaciones, propuestas y anuncios de la comunidad."
+        }
+      }
+    },
+    "communities": {
+      "title": "Comunidades",
+      "subtitle": "Cómo unirte y crear comunidades",
+      "join": {
+        "title": "Unirte a una Comunidad",
+        "steps": {
+          "browse": "Navega a la pestaña Comunidades y explora las comunidades públicas",
+          "select": "Toca una comunidad para ver su descripción, miembros y proyectos activos",
+          "request": "Toca 'Unirse' para solicitar membresía (pública) o ingresa un código de invitación (privada)",
+          "participate": "Una vez aprobado, puedes votar, proponer ideas y contribuir a proyectos"
+        }
+      },
+      "create": {
+        "title": "Crear una Comunidad",
+        "steps": {
+          "tap": "Ve a Comunidades y toca el botón '+' o 'Crear Comunidad'",
+          "configure": "Agrega un nombre, descripción e imagen de perfil opcional para tu comunidad",
+          "privacy": "Elige visibilidad: Pública (cualquiera puede unirse) o Privada (solo por invitación)",
+          "invite": "Comparte el enlace o código de invitación con los miembros que quieres que se unan"
+        }
+      }
+    },
+    "voting": {
+      "title": "Votación y Gobernanza",
+      "subtitle": "Cómo funciona la votación democrática en Eroica",
+      "steps": {
+        "access": {
+          "title": "Accede a Votaciones Activas",
+          "description": "Desde tu dashboard de comunidad, toca 'Votaciones' o ve la lista de propuestas activas esperando tu opinión."
+        },
+        "review": {
+          "title": "Revisa la Propuesta",
+          "description": "Lee los detalles de la propuesta, comentarios de discusión y cualquier documentación de apoyo antes de votar."
+        },
+        "vote": {
+          "title": "Emite Tu Voto",
+          "description": "Selecciona tu opción (Sí, No, o Abstención) y confirma. Tu voto se registra transparentemente en la plataforma."
+        },
+        "results": {
+          "title": "Ver Resultados",
+          "description": "Una vez que la votación cierra, los resultados se muestran públicamente. Los requisitos de quórum deben cumplirse para validez."
+        }
+      }
+    },
+    "coins": {
+      "title": "Eroica Coins",
+      "subtitle": "Tu moneda de participación",
+      "earn": {
+        "title": "Cómo Ganar Coins",
+        "items": {
+          "welcome": "100 EC de bono de bienvenida cuando creas tu cuenta",
+          "vote": "5 EC cada vez que participas en una votación comunitaria",
+          "propose": "25 EC cuando envías una nueva propuesta que es aprobada",
+          "invite": "15 EC por cada nuevo miembro que invitas y se une"
+        }
+      },
+      "use": {
+        "title": "Cómo Usar Coins",
+        "items": {
+          "donate": "Dona a proyectos comunitarios en los que crees",
+          "fund": "Contribuye a las metas de financiamiento de propuestas",
+          "boost": "Impulsa la visibilidad de propuestas importantes"
+        }
+      }
+    },
+    "help": {
+      "title": "¿Necesitas Más Ayuda?",
+      "description": "Nuestro equipo de soporte está listo para ayudarte con cualquier pregunta sobre el uso de Eroica Platform.",
+      "cta": "Contactar Soporte"
+    }
+  },
+  "api": {
+    "badge": "API para Desarrolladores",
+    "title": "Construye sobre Eroica",
+    "subtitle": "Integra gobernanza democrática en tus aplicaciones con nuestra API potente y bien documentada.",
+    "features": {
+      "title": "Características de la API",
+      "items": {
+        "restful": {
+          "title": "Diseño RESTful",
+          "description": "Endpoints limpios y predecibles siguiendo convenciones REST."
+        },
+        "authentication": {
+          "title": "Autenticación Segura",
+          "description": "Opciones de autenticación OAuth 2.0 y API key."
+        },
+        "realtime": {
+          "title": "Eventos en Tiempo Real",
+          "description": "Soporte WebSocket para actualizaciones y notificaciones en vivo."
+        },
+        "security": {
+          "title": "Seguridad Empresarial",
+          "description": "Encriptación TLS, límite de tasa y registro de auditoría."
+        }
+      }
+    },
+    "endpoints": {
+      "title": "Endpoints de la API",
+      "subtitle": "Una vista previa de los endpoints disponibles. Documentación completa próximamente.",
+      "viewDocs": "Ver Documentación Completa"
+    },
+    "sdks": {
+      "title": "SDKs Oficiales",
+      "subtitle": "Bibliotecas cliente para lenguajes de programación populares.",
+      "comingSoon": "Los SDKs están actualmente en desarrollo. Acceso a la API disponible ahora."
+    },
+    "cta": {
+      "title": "Obtener Acceso a la API",
+      "description": "Solicita credenciales de API para comenzar a construir integraciones con Eroica.",
+      "button": "Solicitar Acceso"
+    }
+  }
+}
