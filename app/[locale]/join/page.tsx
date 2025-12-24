@@ -21,7 +21,7 @@ export default function JoinPage() {
         {/* Hero Section */}
         <section className="relative overflow-hidden pb-16 md:pb-24">
           <div className="absolute inset-0 bg-gradient-to-b from-heroic-50/50 to-white -z-10" />
-          <Container size="md">
+          <Container size="default">
             <motion.div
               className="text-center"
               initial={{ opacity: 0, y: 20 }}
@@ -46,7 +46,7 @@ export default function JoinPage() {
 
         {/* Intro Section */}
         <section className="py-12 md:py-16">
-          <Container size="md">
+          <Container size="default">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -67,7 +67,7 @@ export default function JoinPage() {
 
         {/* What We Look For */}
         <section className="py-12 md:py-16 bg-gray-50">
-          <Container size="md">
+          <Container size="default">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}

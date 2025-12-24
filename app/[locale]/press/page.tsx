@@ -166,7 +166,7 @@ export default function PressPage() {
 
         {/* Quote Section */}
         <Section className="py-16 bg-civic-500 text-white">
-          <Container size="md">
+          <Container size="default">
             <motion.div
               className="text-center"
               initial={{ opacity: 0, y: 20 }}
@@ -186,7 +186,7 @@ export default function PressPage() {
 
         {/* Contact Section */}
         <Section className="py-16 bg-warm-white">
-          <Container size="md">
+          <Container size="default">
             <motion.div
               className="bg-white rounded-2xl p-8 md:p-12 border border-gray-100 shadow-soft text-center"
               initial={{ opacity: 0, y: 20 }}

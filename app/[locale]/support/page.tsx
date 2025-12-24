@@ -54,7 +54,7 @@ export default function SupportPage() {
         {/* Hero Section */}
         <section className="relative overflow-hidden pb-16 md:pb-24">
           <div className="absolute inset-0 bg-gradient-to-b from-civic-50/50 to-white -z-10" />
-          <Container size="md">
+          <Container size="default">
             <motion.div
               className="text-center"
               initial={{ opacity: 0, y: 20 }}
@@ -79,7 +79,7 @@ export default function SupportPage() {
 
         {/* Contact Cards */}
         <section className="py-12 md:py-16">
-          <Container size="md">
+          <Container size="default">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -145,7 +145,7 @@ export default function SupportPage() {
 
         {/* FAQ Section */}
         <section className="py-12 md:py-16 bg-gray-50">
-          <Container size="md">
+          <Container size="default">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}

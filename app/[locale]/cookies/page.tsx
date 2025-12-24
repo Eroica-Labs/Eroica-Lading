@@ -97,7 +97,7 @@ export default function CookiesPage() {
     <>
       <Header />
       <main className="pt-24 pb-16 md:pt-32 md:pb-24">
-        <Container size="md">
+        <Container size="default">
           {/* Header */}
           <motion.div
             className="text-center mb-12"

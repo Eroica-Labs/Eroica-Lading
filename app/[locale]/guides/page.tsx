@@ -462,7 +462,7 @@ export default function GuidesPage() {
 
         {/* Need Help CTA */}
         <Section className="py-16 bg-civic-500 text-white">
-          <Container size="md">
+          <Container size="default">
             <motion.div
               className="text-center"
               initial={{ opacity: 0, y: 20 }}

@@ -415,7 +415,7 @@ export default function AboutPage() {
 
         {/* Timeline Section */}
         <section className="py-16 md:py-24 bg-white">
-          <Container size="md">
+          <Container size="default">
             <motion.div
               className="text-center mb-12"
               initial={{ opacity: 0, y: 20 }}
@@ -480,7 +480,7 @@ export default function AboutPage() {
 
         {/* Swiss Commitment */}
         <section className="py-16 md:py-24 bg-civic-500 text-white">
-          <Container size="md">
+          <Container size="default">
             <motion.div
               className="text-center"
               initial={{ opacity: 0, y: 20 }}
