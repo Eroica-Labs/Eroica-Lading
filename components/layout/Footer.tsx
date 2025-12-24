@@ -6,6 +6,19 @@ import { Twitter, Linkedin, Github, Instagram, ExternalLink } from "lucide-react
 import { Container } from "@/components/ui/Container";
 import { locales, localeNames, type Locale } from "@/i18n/config";
 
+// Define link type for footer sections
+interface FooterLink {
+  label: string;
+  href: string;
+  external?: boolean;
+}
+
+interface FooterSection {
+  title: string;
+  description?: string;
+  links: FooterLink[];
+}
+
 export default function Footer() {
   const t = useTranslations("footer");
   const locale = useLocale() as Locale;
@@ -21,7 +34,7 @@ export default function Footer() {
   };
 
   // Footer link sections organized by Eroica ecosystem
-  const sections = [
+  const sections: FooterSection[] = [
     {
       title: t("labs.title"),
       description: t("labs.description"),
@@ -35,8 +48,8 @@ export default function Footer() {
       title: t("platform.title"),
       description: t("platform.description"),
       links: [
-        { label: t("platform.features"), href: "/#features", anchor: true },
-        { label: t("platform.pricing"), href: "/#pricing", anchor: true },
+        { label: t("platform.features"), href: "/#features" },
+        { label: t("platform.pricing"), href: "/#pricing" },
         { label: t("platform.support"), href: "/support" },
         { label: t("platform.guides"), href: "/guides" },
       ],
