@@ -48,12 +48,11 @@ export default function SupportPage() {
   const faqItems = t.raw("faq.items") as Array<{ question: string; answer: string }>;
 
   return (
-    <>
+    <div className="min-h-screen bg-gradient-to-b from-civic-50 via-civic-50/30 to-white">
       <Header />
       <main className="pt-24 pb-16 md:pt-32 md:pb-24">
         {/* Hero Section */}
         <section className="relative overflow-hidden pb-16 md:pb-24">
-          <div className="absolute inset-0 bg-gradient-to-b from-civic-50/50 to-white -z-10" />
           <Container size="default">
             <motion.div
               className="text-center"
@@ -175,7 +174,7 @@ export default function SupportPage() {
         </section>
       </main>
       <Footer />
-    </>
+    </div>
   );
 }
 

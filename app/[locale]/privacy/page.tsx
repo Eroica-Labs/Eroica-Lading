@@ -69,7 +69,7 @@ export default function PrivacyPage() {
   ];
 
   return (
-    <>
+    <div className="min-h-screen bg-gradient-to-b from-civic-50 via-civic-50/30 to-white">
       <Header />
       <main className="pt-24 pb-16 md:pt-32 md:pb-24">
         <Container size="default">
@@ -160,7 +160,7 @@ export default function PrivacyPage() {
         </Container>
       </main>
       <Footer />
-    </>
+    </div>
   );
 }
 

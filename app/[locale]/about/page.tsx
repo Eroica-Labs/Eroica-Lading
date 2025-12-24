@@ -28,12 +28,11 @@ export default function AboutPage() {
   ];
 
   return (
-    <>
+    <div className="min-h-screen bg-gradient-to-b from-civic-50 via-civic-50/30 to-white">
       <Header />
       <main className="pt-24 pb-16 md:pt-32 md:pb-24">
         {/* Hero Section */}
         <section className="relative overflow-hidden pb-16 md:pb-24">
-          <div className="absolute inset-0 bg-gradient-to-b from-civic-50/50 to-white -z-10" />
           <Container size="lg">
             <motion.div
               className="text-center max-w-3xl mx-auto"
@@ -505,7 +504,7 @@ export default function AboutPage() {
         </section>
       </main>
       <Footer />
-    </>
+    </div>
   );
 }
 

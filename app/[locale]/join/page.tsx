@@ -15,12 +15,11 @@ export default function JoinPage() {
   const values = t.raw("values.items") as string[];
 
   return (
-    <>
+    <div className="min-h-screen bg-gradient-to-b from-heroic-50 via-heroic-50/30 to-white">
       <Header />
       <main className="pt-24 pb-16 md:pt-32 md:pb-24">
         {/* Hero Section */}
         <section className="relative overflow-hidden pb-16 md:pb-24">
-          <div className="absolute inset-0 bg-gradient-to-b from-heroic-50/50 to-white -z-10" />
           <Container size="default">
             <motion.div
               className="text-center"
@@ -137,7 +136,7 @@ export default function JoinPage() {
         </section>
       </main>
       <Footer />
-    </>
+    </div>
   );
 }
 

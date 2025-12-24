@@ -67,7 +67,7 @@ export default function TermsPage() {
   ];
 
   return (
-    <>
+    <div className="min-h-screen bg-gradient-to-b from-heroic-50 via-heroic-50/30 to-white">
       <Header />
       <main className="pt-24 pb-16 md:pt-32 md:pb-24">
         <Container size="default">
@@ -156,7 +156,7 @@ export default function TermsPage() {
         </Container>
       </main>
       <Footer />
-    </>
+    </div>
   );
 }
 
