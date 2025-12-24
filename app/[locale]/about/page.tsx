@@ -28,13 +28,13 @@ export default function AboutPage() {
   ];
 
   return (
-    <>
-      {/* Gradient background for header area */}
-      <div className="fixed inset-x-0 top-0 h-32 bg-gradient-to-b from-civic-50 to-transparent pointer-events-none z-40" />
+    <div className="min-h-screen">
+      {/* Gradient only for header area */}
+      <div className="fixed inset-x-0 top-0 h-40 bg-gradient-to-b from-civic-50 to-transparent pointer-events-none z-0" />
       <Header />
-      <main className="pt-24 pb-0 md:pt-32">
+      <main className="pt-24 md:pt-32 relative z-10">
         {/* Hero Section */}
-        <section className="relative overflow-hidden pb-16 md:pb-24 bg-gradient-to-b from-civic-50 via-civic-50/50 to-white">
+        <section className="relative overflow-hidden pb-16 md:pb-24 bg-gradient-to-b from-civic-50 to-white">
           <Container size="lg">
             <motion.div
               className="text-center max-w-3xl mx-auto"
@@ -506,7 +506,7 @@ export default function AboutPage() {
         </section>
       </main>
       <Footer />
-    </>
+    </div>
   );
 }
 

@@ -81,13 +81,13 @@ export default function Features() {
           viewport={viewportOnce}
           transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
         >
-          <SectionHeader>
-            <Badge variant="civic" className="mb-4">
-              {t("badge")}
-            </Badge>
-            <SectionTitle>{t("title")}</SectionTitle>
-            <SectionSubtitle>{t("subtitle")}</SectionSubtitle>
-          </SectionHeader>
+        <SectionHeader>
+          <Badge variant="civic" className="mb-4">
+            {t("badge")}
+          </Badge>
+          <SectionTitle>{t("title")}</SectionTitle>
+          <SectionSubtitle>{t("subtitle")}</SectionSubtitle>
+        </SectionHeader>
         </motion.div>
 
         {/* Features grid with stagger effect */}

@@ -142,12 +142,12 @@ export default function Footer() {
                         <ExternalLink className="w-3 h-3" />
                       </a>
                     ) : (
-                      <Link
+                    <Link
                         href={localizedHref(link.href)}
-                        className="text-sm text-gray-400 hover:text-white transition-colors"
-                      >
-                        {link.label}
-                      </Link>
+                      className="text-sm text-gray-400 hover:text-white transition-colors"
+                    >
+                      {link.label}
+                    </Link>
                     )}
                   </li>
                 ))}

@@ -139,7 +139,7 @@ const Button = forwardRef<HTMLButtonElement, ButtonProps>(
         )}
         {/* Content wrapper for potential animations */}
         <span className="relative z-10 flex items-center gap-2">
-          {children}
+        {children}
         </span>
       </button>
     );
