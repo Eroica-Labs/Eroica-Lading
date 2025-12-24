@@ -93,7 +93,10 @@ export default function Footer() {
               <img
                 src="/images/logo.svg"
                 alt="Eroica"
-                className="h-8 w-auto brightness-0 invert"
+                className="h-12 w-auto"
+                style={{
+                  filter: "brightness(0) saturate(100%) invert(67%) sepia(30%) saturate(567%) hue-rotate(8deg) brightness(94%) contrast(88%)"
+                }}
               />
             </Link>
 

@@ -150,7 +150,7 @@ export default function Header() {
                 alt="Eroica"
                 className={cn(
                   "w-auto transition-all duration-300",
-                  isScrolled ? "h-7" : "h-8"
+                  isScrolled ? "h-10" : "h-12"
                 )}
               />
             </motion.div>
