@@ -10,9 +10,6 @@ import { AnimatedWaves } from "@/components/ui/AnimatedWaves";
 import { 
   staggerContainerSlow, 
   staggerItem, 
-  viewportHero,
-  floatingAnimation,
-  floatingDelayed,
 } from "@/lib/animations";
 
 // Animated counter component
@@ -34,15 +31,10 @@ export default function Hero() {
 
   return (
     <section className="relative min-h-[90vh] flex items-center overflow-hidden bg-gradient-to-b from-warm-white via-white to-warm-white">
-      {/* Elegant Flowing Lines - Democratic Symphony */}
+      {/* Symphonic Waves - The Living Score */}
       <AnimatedWaves />
       
-      {/* Subtle gradient orbs - barely perceptible */}
-      <div className="absolute inset-0 overflow-hidden">
-        <div className="absolute top-20 -left-40 w-[600px] h-[600px] rounded-full bg-gradient-to-br from-heroic-200/10 to-transparent blur-3xl" />
-        <div className="absolute bottom-0 right-0 w-[700px] h-[700px] rounded-full bg-gradient-to-tl from-civic-100/15 to-transparent blur-3xl" />
-      </div>
-
+      {/* Content Container */}
       <Container size="lg" className="relative z-10 py-20 md:py-28 lg:py-32">
         <motion.div
           variants={staggerContainerSlow}

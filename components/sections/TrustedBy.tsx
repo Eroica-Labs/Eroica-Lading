@@ -105,12 +105,12 @@ export default function TrustedBy() {
               className="hidden sm:block h-px w-20 bg-gradient-to-r from-transparent via-heroic-300 to-heroic-400 origin-right" 
             />
             <p className="text-sm text-gray-500 uppercase tracking-[0.25em] font-medium">
-              {t("title")}
-            </p>
-            <motion.div 
+            {t("title")}
+          </p>
+              <motion.div
               initial={{ scaleX: 0 }}
               whileInView={{ scaleX: 1 }}
-              viewport={{ once: true }}
+                viewport={{ once: true }}
               transition={{ duration: 0.8, delay: 0.3 }}
               className="hidden sm:block h-px w-20 bg-gradient-to-l from-transparent via-heroic-300 to-heroic-400 origin-left" 
             />
