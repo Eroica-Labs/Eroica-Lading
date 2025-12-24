@@ -15,13 +15,13 @@ export default function JoinPage() {
   const values = t.raw("values.items") as string[];
 
   return (
-    <div className="min-h-screen">
-      {/* Gradient only for header area */}
-      <div className="fixed inset-x-0 top-0 h-40 bg-gradient-to-b from-heroic-50 to-transparent pointer-events-none z-0" />
+    <div className="min-h-screen relative">
+      {/* Background gradient that extends behind the transparent header */}
+      <div className="absolute inset-x-0 top-0 h-[600px] bg-gradient-to-b from-heroic-50 via-heroic-50/30 to-transparent pointer-events-none" />
       <Header />
-      <main className="pt-24 md:pt-32 relative z-10">
+      <main className="pt-24 md:pt-32 relative">
         {/* Hero Section */}
-        <section className="relative overflow-hidden pb-16 md:pb-24 bg-gradient-to-b from-heroic-50 to-white">
+        <section className="relative overflow-hidden pb-16 md:pb-24">
           <Container size="default">
             <motion.div
               className="text-center"

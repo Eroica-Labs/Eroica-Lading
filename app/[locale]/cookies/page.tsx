@@ -94,11 +94,11 @@ export default function CookiesPage() {
   ];
 
   return (
-    <div className="min-h-screen bg-white">
-      {/* Gradient only for header area */}
-      <div className="fixed inset-x-0 top-0 h-40 bg-gradient-to-b from-heroic-50 to-transparent pointer-events-none z-0" />
+    <div className="min-h-screen relative">
+      {/* Background gradient that extends behind the transparent header */}
+      <div className="absolute inset-x-0 top-0 h-[600px] bg-gradient-to-b from-heroic-50 via-heroic-50/30 to-transparent pointer-events-none" />
       <Header />
-      <main className="pt-24 pb-16 md:pt-32 md:pb-24 relative z-10 bg-gradient-to-b from-heroic-50 via-white to-white">
+      <main className="pt-24 pb-16 md:pt-32 md:pb-24 relative">
         <Container size="default">
           {/* Header */}
           <motion.div
