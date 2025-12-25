@@ -4,6 +4,8 @@ const withNextIntl = createNextIntlPlugin('./i18n/request.ts');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // Required for Docker/DigitalOcean App Platform deployments
+  output: "standalone",
   // Image optimization
   images: {
     formats: ['image/avif', 'image/webp'],
