@@ -7,8 +7,8 @@ export function OrganizationSchema() {
     alternateName: "The Democratic Symphony",
     description:
       "Eroica empowers communities with the instruments of genuine democracy — transparent governance, collective decision-making, and civic participation platforms that transform how people collaborate.",
-    url: "https://eroica.app",
-    logo: "https://eroica.app/images/logo.svg",
+    url: "https://eroica.io",
+    logo: "https://eroica.io/images/logo.svg",
     slogan: "The Democratic Symphony",
     foundingDate: "2024",
     sameAs: [
@@ -19,7 +19,7 @@ export function OrganizationSchema() {
     contactPoint: {
       "@type": "ContactPoint",
       contactType: "customer support",
-      email: "support@eroica.app",
+      email: "support@eroica.io",
       availableLanguage: ["English", "Spanish"],
     },
     brand: {

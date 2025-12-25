@@ -40,7 +40,7 @@ export async function generateMetadata({
   const meta = messages.metadata as { title: string; description: string };
 
   return {
-    metadataBase: new URL("https://eroica.app"),
+    metadataBase: new URL("https://eroica.io"),
     title: {
       default: meta.title,
       template: "%s | Eroica",
@@ -53,14 +53,25 @@ export async function generateMetadata({
       "community management",
       "project funding",
       "transparent governance",
+      "digital democracy",
+      "participatory economy",
+      "Eroica Labs",
+      "Eroica Foundation",
     ],
-    authors: [{ name: "Eroica" }],
-    creator: "Eroica",
-    publisher: "Eroica",
+    authors: [{ name: "Eroica Labs" }],
+    creator: "Eroica Labs",
+    publisher: "Eroica Labs",
+    alternates: {
+      canonical: "/",
+      languages: {
+        en: "/en",
+        es: "/es",
+      },
+    },
     openGraph: {
       type: "website",
       locale: locale === "es" ? "es_ES" : "en_US",
-      url: "https://eroica.app",
+      url: "https://eroica.io",
       siteName: "Eroica",
       title: meta.title,
       description: meta.description,
