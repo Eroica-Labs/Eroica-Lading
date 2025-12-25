@@ -6,8 +6,9 @@ export default createMiddleware({
   locales,
   // Used when no locale matches
   defaultLocale,
-  // Don't add locale prefix for the default locale
-  localePrefix: "as-needed",
+  // Always use prefix (e.g. /en/about) to avoid RSC payload issues at root
+  // and ensure explicit language selection
+  localePrefix: "always",
 });
 
 export const config = {
@@ -15,5 +16,6 @@ export const config = {
   // - API routes
   // - Static files
   // - _next internal paths
+  // - favicon/icon files
   matcher: ["/((?!api|_next|_vercel|.*\\..*).*)"],
 };
